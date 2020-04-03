@@ -1,2 +1,1 @@
-Run:</br>
-pytest --capture=tee-sys 
+Run <b>pytest --capture=tee-sys</b>
